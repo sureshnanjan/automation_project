@@ -4,4 +4,8 @@ public class Application{
         // Adding My New Changes 
         System.out.println("Application Launched OK");
     }
+    
+    private static void Tester2Method(){
+        System.out.println("Application Launched OK");
+    }
 }
